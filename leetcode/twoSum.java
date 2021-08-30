@@ -5,10 +5,11 @@
  * @since   Aug 30, 2021
  * @see https://leetcode.com/problems/two-sum/
  */
+]=
 
 import java.util.Arrays;
 
-class Demo {
+class TwoSum {
     
     public static int[] sumTwo(int[] nums, int target) {
         int sum = 0;
